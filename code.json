@@ -22,18 +22,21 @@
     "laborHours": 1,
     "tags": [
       "test",
-      "migration"
+      "migration",
+      "NRSS",
+      "IMD",
+      "CSO-data-science"
     ],
     "languages": [
       "R",
-      "pythin"
+      "python"
     ],
     "contact": {
       "name": "Robert Baker",
       "email": "robert_baker@nps.gov"
     },
     "date": {
-      "metadataLastUpdated": "2024-10-07"
+      "metadataLastUpdated": "2026-02-18
     }
   }
 ]
